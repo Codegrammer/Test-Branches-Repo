@@ -9,7 +9,7 @@ namespace ConsoleApplication1
     {
         public string Ololo()
         {
-            return "Ololo1";
+            return "Ololo11";
         }
     }
 }
