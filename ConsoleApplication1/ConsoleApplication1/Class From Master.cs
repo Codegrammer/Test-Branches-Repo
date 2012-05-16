@@ -5,7 +5,11 @@ using System.Text;
 
 namespace ConsoleApplication1
 {
-    class Class_From_Master
+    public class Class_From_Master
     {
+        public string Ololo()
+        {
+            return "Ololo";
+        }
     }
 }
