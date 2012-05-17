@@ -1,3 +1,5 @@
 <Modules>
   <Module PersistentId="100775F8-EDF2-4165-B9D6-785D4E991745" ModuleId="ConsoleApplication1" />
+  <Module PersistentId="03C94ACD-7450-408F-90E9-645AD8DB4781" ModuleId="UnitTestProject" />
+  <Module PersistentId="70186577-650A-4684-8168-3F648463EF8F" ModuleId="SilverlightTest1" />
 </Modules>
